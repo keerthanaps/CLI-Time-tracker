@@ -1,0 +1,1 @@
+echo -e "*.pyc\n__pycache__/\n*.pyo\n*.pyd\n.env\n.venv\n*.egg-info/\nbuild/\ndist/" > .gitignore
